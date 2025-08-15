@@ -16,7 +16,4 @@ A PyTorch implementation of Deep Q-Network (DQN) to solve OpenAI Gym's LunarLand
 
 ## Usage
 ```bash
-pip install -r requirements.txt
-
 python train.py
-
